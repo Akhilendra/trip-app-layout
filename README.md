@@ -1,6 +1,6 @@
 <h1>Trip App Layout Android Java</h1>
 
-App uses Vertical and Horizontal Recycler Views, Card View, Menu, Bottom Navigation Bar and other android elements.
+App uses Vertical and Horizontal Recycler Views, Card View, Toolbar Menu, Bottom Navigation Bar and other android elements.
 
 <p align="center">
 <img height="400" src="https://github.com/Akhilendra/trip-app-layout/blob/master/Screenshot1.png" />
